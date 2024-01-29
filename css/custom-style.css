@@ -1,0 +1,129 @@
+/* text */
+.text-blue-50 {
+    color: #eaebf4;
+}
+.text-blue-100 {
+    color: #bdc1dc;
+}
+.text-blue-200 {
+    color: #707ab3;
+}
+.text-blue-300 {
+    color: #29388d;
+}
+.text-blue-400 {
+    color: #1d2864;
+}
+.text-blue-500 {
+    color: #11183b;
+}
+
+.text-green-50 {
+    color: #ecf5ec;
+}
+.text-green-100 {
+    color: #c4dfc5;
+}
+.text-green-200 {
+    color: #7fba82;
+}
+.text-green-300 {
+    color: #409844 !important;
+}
+.text-green-400 {
+    color: #2d6c30;
+}
+.text-green-500 {
+    color: #1b401d;
+}
+
+/* background */
+
+.background-blue-50 {
+    background-color: #eaebf4;
+}
+.background-blue-100 {
+    background-color: #bdc1dc;
+}
+.background-blue-200 {
+    background-color: #707ab3;
+}
+.background-blue-300 {
+    background-color: #29388d;
+}
+.background-blue-400 {
+    background-color: #1d2864;
+}
+.background-blue-500 {
+    background-color: #11183b;
+}
+
+.background-green-50 {
+    background-color: #ecf5ec;
+}
+.background-green-100 {
+    background-color: #c4dfc5;
+}
+.background-green-200 {
+    background-color: #7fba82;
+}
+.background-green-300 {
+    background-color: #409844;
+}
+.background-green-400 {
+    background-color: #2d6c30;
+}
+.background-green-500 {
+    background-color: #1b401d;
+}
+
+/* transparent */
+.background-transparent {
+    background-color: #11183bd1 !important;
+}
+
+.separator-section:before, .separator-section:after {
+    color: #7fba82 !important;
+}
+
+.sosmed-icon.icon-bg-primary a {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    color: #ffffff;
+    background-color: #1b401d;
+    margin: 0 2px;
+}
+
+.box-events .box-event .event-location .fa {
+    background-color: #409844;
+}
+
+.btn-primary {
+    background-color: #409844;
+    border-bottom: 2px solid #1b401d;
+    color: #ffffff;
+}
+
+.separator-banner:before, .separator-banner:after {
+    content: '~';
+    font-size: 72px;
+    font-family: "Rouge Script", cursive;
+    color: #409844;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+body{
+    background-color: #eaebf4;
+}
+
+.footer {
+    background-color: #11183b;
+    color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    border-top: 1px solid #C69C6D;
+    position: relative;
+}
