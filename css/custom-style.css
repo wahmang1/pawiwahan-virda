@@ -28,13 +28,13 @@
     color: #7fba82;
 }
 .text-green-300 {
-    color: #409844 !important;
+    color: #11183b !important;
 }
 .text-green-400 {
-    color: #2d6c30;
+    color: #11183b;
 }
 .text-green-500 {
-    color: #1b401d;
+    color: #11183b;
 }
 
 /* background */
@@ -68,13 +68,13 @@
     background-color: #7fba82;
 }
 .background-green-300 {
-    background-color: #409844;
+    background-color: #11183b;
 }
 .background-green-400 {
-    background-color: #2d6c30;
+    background-color: #11183b;
 }
 .background-green-500 {
-    background-color: #1b401d;
+    background-color: #11183b;
 }
 
 /* transparent */
@@ -83,7 +83,7 @@
 }
 
 .separator-section:before, .separator-section:after {
-    color: #7fba82 !important;
+    color: #11183b!important;
 }
 
 .sosmed-icon.icon-bg-primary a {
@@ -92,17 +92,17 @@
     -ms-border-radius: 50%;
     border-radius: 50%;
     color: #ffffff;
-    background-color: #1b401d;
+    background-color: #11183b;
     margin: 0 2px;
 }
 
 .box-events .box-event .event-location .fa {
-    background-color: #409844;
+    background-color: #11183b;
 }
 
 .btn-primary {
-    background-color: #409844;
-    border-bottom: 2px solid #1b401d;
+    background-color: #11183b;
+    border-bottom: 2px solid #11183b;
     color: #ffffff;
 }
 
@@ -110,7 +110,7 @@
     content: '~';
     font-size: 72px;
     font-family: "Rouge Script", cursive;
-    color: #409844;
+    color: #11183b;
     padding-left: 30px;
     padding-right: 30px;
 }
